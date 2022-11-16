@@ -1,0 +1,19 @@
+body{
+    background: black;
+}
+.bdy{
+    color: white;
+    margin-top: 1.5%;
+    margin-left: 10px;
+    font-family:consolas;
+}
+.bsy{
+    color:white;
+    margin-left: 10px;
+    font-family:consolas;
+}
+.list{
+    color:white;
+    text-decoration: none;
+    font-family:consolas;
+}
